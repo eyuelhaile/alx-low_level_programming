@@ -1,6 +1,6 @@
 /*
  * File: 7-print_tebahpla.c
- * Auth: WIlliam Mitiku
+ * Auth: Eyuel H
  */
 
 #include <stdio.h>

@@ -1,6 +1,6 @@
 /*
  * File: 3-print_alphabets.c
- * Auth: William Mitiku
+ * Auth: Eyuel H
  */
 
 #include <stdio.h>

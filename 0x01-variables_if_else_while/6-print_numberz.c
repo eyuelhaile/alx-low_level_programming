@@ -1,6 +1,6 @@
 /*
  * File: 6-print_numberz.c
- * Auth: William M
+ * Auth: Eyuel H
  */
 
 #include <stdio.h>

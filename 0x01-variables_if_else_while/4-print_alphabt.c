@@ -1,6 +1,6 @@
 /*
  * File: 4-print_alphabt.c
- * Auth: William Mitiku
+ * Auth: Eyuel H
  */
 
 #include <stdio.h>
